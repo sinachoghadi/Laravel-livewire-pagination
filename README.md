@@ -54,9 +54,7 @@ php artisan serve
 ## Usage
 To use this application, simply navigate to the homepage in your web browser:
 
-```
 [php artisan serve](http://localhost:8000)
-```
 
 From here, you can view a paginated table of Employees with columns 'emp_name', 'email', 'gender', 'city', and 'status'. You can also search and filter the table data using the input fields provided.
 
